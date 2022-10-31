@@ -1,4 +1,5 @@
 print("vcacio")
 
 def funcionmodificar():
-    pass
+    suma=4+5
+    print(suma)
